@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 
 # Load the pre-trained model
-model = load_model(r"/content/drive/MyDrive/Colab Notebooks/leaf_disease_detection_DL/model/8.keras")
+model = load_model(r"https://github.com/Sathyanagaraj03/Leaf_Disease_Detection_/blob/main/model/9.keras")
 data_cat = ['Potato__Early_blight', 'Potato_Late_blight', 'Potato__healthy']
 
 # Streamlit UI
