@@ -16,7 +16,7 @@ This project leverages deep learning to automatically identify and classify dise
 The Leaf Disease Detection project uses a convolutional neural network (CNN) model to classify images of plant leaves into different disease categories. This innovative approach aims to assist farmers and agricultural experts in monitoring plant health and taking preventive measures against diseases.
 
 ## Objectives
-- **Automate Disease Detection**: Build a system that accurately classifies leaf diseases using deep learning.
+- **Disease Detection**: Build a system that accurately classifies leaf diseases using deep learning.
 - **Enhance Crop Management**: Provide a tool for farmers to monitor plant health effectively.
 - **Reduce Chemical Usage**: Minimize pesticide use through early disease detection.
 
